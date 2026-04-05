@@ -99,4 +99,4 @@ Detect declining sales trends and take corrective measures early.
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like.
-Example: ![Dashboard Preview]
+Example: ![Dashboard Preview](https://github.com/anchalsingh19358-afk/Sales-Dashboard/blob/main/Sales%20Dashboard.pbix)
